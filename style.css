@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content: center;
+    
+}
+
+h1{
+    color: blue;
+}
+
+article{
+    width: 400px;
+    height: auto;
+    padding: 20px;
+    margin: 20px;
+    background-color:sandybrown;
+}
+
+section{
+    display: flex;
+    justify-content: space-evenly;
+}
